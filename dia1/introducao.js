@@ -1,0 +1,1 @@
+console.log('SCRIPT EXTERNO Welcome to 30DaysOfJavaScript')
